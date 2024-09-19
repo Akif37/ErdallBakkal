@@ -1,4 +1,4 @@
-Mağaza Yönetim Sistemi
+# Mağaza Yönetim Sistemi
 Genel Bakış ve Tanım
 Mağaza Yönetim Sistemi, Java kullanarak geliştirilmiş basit bir konsol uygulamasıdır. Bu uygulama, kullanıcıların ürünleri yönetmesine, satış işlemlerini gerçekleştirmesine ve sipariş detaylarını görüntülemesine olanak tanır. Konsol tabanlı bir arayüz ile kullanıcı dostu bir deneyim sunar.
 
