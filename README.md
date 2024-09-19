@@ -1,5 +1,5 @@
 Mağaza Yönetim Sistemi
-Genel Bakış
+Genel Bakış ve Tanım
 Mağaza Yönetim Sistemi, Java kullanarak geliştirilmiş basit bir konsol uygulamasıdır. Bu uygulama, kullanıcıların ürünleri yönetmesine, satış işlemlerini gerçekleştirmesine ve sipariş detaylarını görüntülemesine olanak tanır. Konsol tabanlı bir arayüz ile kullanıcı dostu bir deneyim sunar.
 
 Özellikler
@@ -26,3 +26,4 @@ Satışları Listele: Yapılan tüm satışları gösterir.
 Örnek
 Bir ürün eklemek için 2. seçeneği seçin ve istenen bilgileri girin.
 Bir ürün satışı yapmak için 3. seçeneği seçin, ürün adını ve miktarını girin.
+
